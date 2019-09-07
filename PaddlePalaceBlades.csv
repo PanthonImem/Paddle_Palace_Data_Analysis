@@ -1,0 +1,373 @@
+,,,,,,,,,,,,
+,blade_name,code,brand,class,Speed,control,weight,plies,thickness,handle,combo price,price
+,Tibhar Fortino Force,STFFC,Tibhar,OFF,94,70,85,"5w, 2d/c",6.3,"FL, ST",,$109.95
+,Tibhar Fortino Pro,STFPR,Tibhar,OFF+,96,67,85,"5w, 2c/d",6.3,"FL, ST",,$214.95
+,Tibhar Fortino Performance,STFPF,Tibhar,OFF-,87,78,85,"7w, 2c/d",6.3,"FL, ST",,$109.95
+,Stiga Dynasty Carbon Xu Xin Edition,SSDNX,Stiga,OFF+,96,62,90,"5w, 2c",5.9,"FL, ST",,$249.95
+,Stiga Dynasty Carbon,SSDNC,Stiga,OFF+,96,62,90,"5w, 2c",5.9,"FL, ST",,$178.95
+,Nittaku Acoustic Large Grip,SNACR,Nittaku,OFF,86,67,90,5w,5.7,"FL, ST",,$179.95
+,Nittaku Acoustic Carbon (Large Grip),SNACL,Nittaku,OFF,92,65,92,"5w, 2c",5.5,"FL, ST",,$179.95
+,Nittaku Acoustic Carbon Inner (Large Grip),SNACG,Nittaku,OFF,90,66,92,"5w, 2c",5.5,"FL, ST",,$179.95
+,Juic Pro Alpha,SJPRA,Juic,ALL+,82,76,85,"5w, 2c/k",5.9,"FL, ST",,$78.95
+,Donic Ovtcharov No. 1 Senso,SDONS,Donic,OFF,93,72,85,"5w, 2c/a",5.9,"FL, ST",,$249.95
+,Donic Ovtcharov No. 1,SDON1,Donic,OFF,93,69,90,"5w, 2c/a",5.9,"FL, ST",,$122.95
+,Stiga Clipper 75 Limited Edition,SSCLL7,Stiga,OFF,88,68,90,7w,6.6,FL,,$199.95
+,Stiga Infinity VPS V,SSINF5,Stiga,OFF,88,65,83,5w,6,"FL, ST",$144.95,$79.95
+,Dr. Neubauer Grand Master,SUGMR,Dr. Neubauer,DEF,63,93,68,5w,5.2,"FL, ST",,$54.95
+,Dr. Neubauer High Tech Cypress Carbon,SUHTC,Dr. Neubauer,OFF,88,65,74,"5w, 2c",10,"FL, ST",,$74.95
+,Nittaku Septear Feel,SNSFL,Nittaku,OFF,91,68,88,"7w, 2c",5.7,"FL, ST",,$112.95
+,Nittaku Septear Feel Inner,SNSFI,Nittaku,OFF-,87,70,88,"7w, 2c",5.7,"FL, ST",,$112.95
+,Nittaku Acoustic,SNACO,Nittaku,OFF,86,67,88,5w,5.7,"FL, ST",$229.95,$164.95
+,Xiom Ice Cream AZX,SXIZX,Xiom,OFF+,96,60,88,"5w, 1c/a, 1c/z",5.7,"FL, ST",,$199.95
+,DHS Hurricane Long 5,SCHL5,DHS,OFF+,96,62,88,"5w, 2c/a",5.9,FL,$264.95,$199.95
+,Stiga Carbonado 290,SSC290,Stiga,OFF+,99,58,95,"5w, 2c",5.7,"FL, ST",,$179.95
+,Stiga Carbonado 190,SSC190,Stiga,OFF+,98,60,90,"5w, 2c",5.7,"FL, ST",,$179.95
+,Stiga Carbonado 245,SSC245,Stiga,OFF+,99,58,95,"5w, 2c",5.7,"FL, ST",,$199.95
+,Stiga Carbonado 145,SSC145,Stiga,OFF+,98,60,90,"5w, 2c",5.7,"FL, ST",,$199.95
+,Stiga Carbonado 45,SSC45,Stiga,OFF+,93,63,90,"5w, 2c",5.7,"FL, ST",$254.95,$189.95
+,Butterfly Viscaria,SBVIS,Butterfly,OFF,94,57,90,"5w, 2c/a",5.8,FL,,$159.99
+,Butterfly Timo Boll ALC,SBTBA,Butterfly,OFF,93,56,84,"5w, 2c/a",5.7,"FL, ST",,$159.99
+,Butterfly Harimoto Innerforce ALC,SBHIA,Butterfly,OFF,91,67,88,"5w, 2a/c",6,"FL, ST",,$251.99
+,Tibhar VS Unlimited,STVSU,Tibhar,OFF+,96,68,87,"5w, 2c/k",6,"FL, AN, ST",,$179.95
+,Tibhar Samsonov Force Pro,STSAF,Tibhar,OFF,95,61,85,7w,6.4,"FL, AN, ST",,$59.95
+,Tibhar Samsonov Force Pro Black Edition,STSAB,Tibhar,OFF,96,60,90,7w,6.8,"FL, ST",,$59.95
+,Yasaka Ma Lin Extra Offensive,SYMAE,Yasaka,OFF,89,67,84,5w,5.9,"FL, AN, ST",,$51.95
+,Yasaka Ma Lin Soft Carbon,SYMAS,Yasaka,OFF-,88,68,83,"5w, 2c",5.8,"FL, AN, ST",$137.97,$72.95
+,Stiga Allround Classic,SSALCN,Stiga,ALL,73,83,76,5w,5.4,"FL, AN, ST",,$44.95
+,Stiga Allround Classic Carbon,SSALCC,Stiga,ALL+,82,76,79,"5w, 2c",5.6,"FL, AN, ST",$139.95,$74.95
+,Tibhar Stratus Power Wood,STSPW,Tibhar,OFF-,87,68,85,5w,6.2,"FL, AN, ST",,$54.95
+,Nittaku Ludeack,SNLUD,Nittaku,OFF,86,78,85,7w,6.5,"FL, ST",$164.95,$99.95
+,Donic Ovtcharov Carbospeed,SDOVP,Donic,OFF+,95,55,85,"3w, 2c",7,"FL, ST",,$74.95
+,Stiga Offensive Classic,SSOFFN,Stiga,OFF-,82,74,81,5w,5.4,"FL, AN, ST",$114.95,$49.95
+,Stiga Clipper Classic,SSCLIN,Stiga,OFF,88,68,90,7w,6.6,"FL, AN, ST",,$69.95
+,Andro Treiber CI OFF,SATCI,Andro,OFF-,86,68,90,"5w, 2c/k",6.1,"FL, ST",,$88.95
+,Andro Treiber CO OFF/S,SATCO,Andro,OFF+,98,62,90,"5w, 2c/k",6.1,"FL, ST",,$88.95
+,Andro Treiber FO OFF/S,SATFO,Andro,OFF+,97,63,90,"5w, 2f",6.8,"FL, ST",,$84.95
+,Andro Treiber FI OFF,SATFI,Andro,OFF,94,64,90,"5w, 2f",6.8,"FL, ST",,$84.95
+,Juic Perseus,SJPRS,Juic,OFF-,86,68,87,5w,6.3,"FL, ST",,$59.95
+,Juic Stream,SJSTM,Juic,ALL+,80,77,83,5w,6.3,FL,,$59.95
+,DHS TG7-P,SCT7P,DHS,OFF,88,65,93,7w,6.5,FL,,$79.95
+,Andro Treiber Z,SATRZ,Andro,OFF,93,63,88,"5w, 2c/f",6.6,"FL, ST",$187.95,$122.95
+,Donic Waldner Senso Carbon V1,SDWSC,Donic,OFF-,86,70,85,"5w, 2c",5.6,"FL, AN, ST",$124.95,$59.95
+,Tibhar Kinetic Speed,STKTS,Tibhar,OFF,96,63,85,"5w, 2c/z",5.8,"FL, ST",,$219.95
+,Stiga Azalea Offensive,SSAZO,Stiga,OFF-,85,76,85,5w,5.9,"FL, ST",,$79.95
+,Stiga Azalea Allround,SSAZA,Stiga,ALL,80,78,85,5w,5.6,"FL, ST",$139.95,$74.95
+,Stiga Defensive Classic,SSDVC,Stiga,DEF,69,82,80,5w,5.6,"FL, ST",,$74.95
+,Stiga Defensive Pro,SSDVP,Stiga,DEF+,80,77,80,"5w, 2c",5.7,"FL, ST",,$84.95
+,Donic New Impuls 7.5,SDI75,Donic,OFF,91,72,90,5w,7.5,"FL, AN, ST",,$114.95
+,Donic New Impuls 7.0,SDI70,Donic,OFF-,85,75,85,5w,7,"FL, AN, ST",,$114.95
+,Donic New Impuls 6.5,SDI65,Donic,ALL+,78,78,80,5w,6.5,"FL, AN, ST",,$114.95
+,Nittaku Violin Carbon,SNVIR,Nittaku,OFF,91,66,90,"5w, 2c",5.3,"FL, ST",,$179.95
+,Nittaku Acoustic Carbon Inner,SNACI,Nittaku,OFF,90,66,90,"5w, 2c",5.5,"FL, ST",,$179.95
+,Nittaku Acoustic Carbon,SNACC,Nittaku,OFF,92,65,90,"5w, 2c",5.5,"FL, ST",,$179.95
+,Andro TP_Ligna ALL,SALAL,Andro,ALL+,77,76,75,5w,5.7,"FL, ST",,$94.95
+,Andro TP_Ligna OFF,SALFF,Andro,OFF-,88,66,85,5w,6.5,"FL, ST",,$122.95
+,Andro TP_Ligna OFF/S,SALOS,Andro,OFF,91,65,85,5w,6.8,"FL, ST",,$122.95
+,Andro TP_Ligna CO OFF,SALCO,Andro,OFF,89,66,85,"5w, 2c",6.3,"FL, ST",,$132.95
+,Andro TP_Ligna CI OFF,SALCI,Andro,OFF,90,65,85,"5w, 2c",6.3,"FL, ST",,$132.95
+,Donic Ovtcharov Exclusive Carbon,SDOEC,Donic,OFF,90,65,85,"5w, 2c",6.5,"FL, ST",,$49.95
+,Donic Ovtcharov True Carbon,SDOTC,Donic,OFF,95,71,90,"5w, 2c/k",5.3,"FL, AN, ST",$171.95,$106.95
+,Donic Ovtcharov Senso Carbon,SDOVO,Donic,OFF,90,70,90,"6w, 2c",5.8,FL,,$79.95
+,DHS Fang Bo B2,SCFB2,DHS,OFF+,95,63,90,"5w, 2c/a",5.9,FL,,$69.95
+,Stiga Nostalgic VII,SSNG7,Stiga,OFF,93,64,92,7w,6.3,"FL, ST",$179.95,$114.95
+,Stiga Nostalgic Offensive,SSNGO,Stiga,OFF,91,66,85,5w,5.9,"FL, ST",,$104.95
+,Stiga Nostalgic Allround,SSNGA,Stiga,ALL+,82,76,85,5w,5.6,"FL, ST",,$94.95
+,Stiga Arctic Wood,SSARTN,Stiga,OFF,91,66,85,5w,6,"FL, AN, ST",,$124.95
+,Stiga Eternity VPS V,SSETRN,Stiga,OFF,90,64,90,5w,6.1,"FL, AN, ST",,$89.95
+,Stiga Emerald VPS V,SSEMR5,Stiga,OFF,92,63,90,5w,6.2,"FL, AN, ST",,$169.95
+,Stiga Celero,SSCRO,Stiga,OFF-,86,70,90,5w,5.5,"FL, AN, ST",,$59.95
+,Yasaka Sweden EK Carbon,SYEKC,Yasaka,OFF,96,67,89,"5w, 2c",5.6,"FL, AN, ST",,$69.95
+,Yasaka Ma Lin Carbon,SYMAC,Yasaka,OFF,95,60,85,"5w, 2c",5.6,"FL, AN, ST",$137.95,$72.95
+,Yasaka Ebony Carbon,SYEBC,Yasaka,OFF+,98,52,90,"7w, 2c",6.3,"FL, AN, ST",,$69.95
+,Dr. Neubauer Bloodhound,SUBHD,Dr. Neubauer,ALL-,75,78,77,"3w, 2c",6,"FL, AN, ST",$139.95,$74.95
+,Juic Iseki Carbon,SJISC,Juic,ALL+,80,79,87,"5w, 2c",6.5,"FL, ST",$134.95,$69.95
+,Xiom Feel ZX3,SXFZ3,Xiom,OFF+,95,61,88,"5w, 2c/z",5.6,"FL, ST",,$229.95
+,Xiom Feel ZX2,SXFZ2,Xiom,OFF,93,63,81,"5w, 2c/z",6.5,"FL, ST",,$149.95
+,Xiom Feel ZX1,SXFZ1,Xiom,OFF,92,64,93,"5w, 2c/z",5.7,"FL, ST",,$99.95
+,Andro Timber 7 OFF/S,SAT7OS,Andro,OFF,89,62,90,7w,7,"FL, ST",,$47.95
+,Andro Timber 7 OFF,SAT7OF,Andro,OFF-,82,72,90,7w,6,"FL, ST",,$47.95
+,Andro Timber 5 OFF,SAT5OF,Andro,OFF,88,65,83,5w,6.3,"FL, ST",,$42.95
+,Andro Timber 5 DEF,SAT5D,Andro,DEF,62,88,80,5w,4.9,"FL, ST",,$52.95
+,Andro Timber 5 ALL/S,SAT5AS,Andro,ALL,75,73,83,5w,5.2,"FL, ST",,$42.95
+,Donic Persson OFF+ World Champion 89,SDPWC,Donic,OFF+,97,62,85,"5w, 2c/z",6.9,"FL, ST",,$129.95
+,Donic Waldner OFF World Champion 89,SDWWC,Donic,OFF,93,67,85,"5w, 2c/z",6.9,"FL, ST",,$129.95
+,Donic Appelgren ALL+ World Champion 89,SDAWC,Donic,ALL+,82,74,80,"5w, 2c/z",6.1,"FL, ST",,$129.95
+,Donic Ovtcharov Feat,SDOVF,Donic,OFF-,90,70,75,5w,6.2,"FL, ST",,$129.95
+,Nittaku Septear,SNSEP,Nittaku,OFF,90,74,85,7w,6.7,"FL, ST",$139.95,$74.95
+,Nittaku Septear Lead,SNSEL,Nittaku,OFF-,84,75,80,7w,6.2,FL,,$62.95
+,Nittaku Septear Carbon,SNSEC,Nittaku,OFF,93,68,88,"7w, 2c",5.8,"FL, ST",,$129.95
+,Nittaku Miyabi,SNMIY,Nittaku,OFF+,95,59,85,1w,9,FL,,$104.95
+,Tibhar CCA Unlimited,STCAU,Tibhar,OFF+,96,67,88,"5w, 2c/k",6,"FL, AN, ST",,$189.95
+,Tibhar CCA 7,STCA7,Tibhar,OFF,91,71,88,7w,7.1,"FL, AN, ST",,$99.95
+,Tibhar Samsonov Pure Wood,STSUW,Tibhar,ALL+,79,77,85,5w,6.2,"FL, ST",$127.95,$62.95
+,Stiga Rosewood XO,SSROX,Stiga,OFF,89,64,79,5w,5.8,"FL, AN, ST",,$166.95
+,Stiga Rosewood NCT V,SSRO5,Stiga,OFF-,86,69,93,5w,6.2,"FL, AN, ST",,$155.95
+,Stiga Ebenholz NCT VII,SSEB7N,Stiga,OFF+,94,62,89,7w,6.1,"FL, AN, ST",,$189.95
+,Donic Crest OFF,SDCRO,Donic,OFF,95,70,85,"5w, 2c/z",5.9,"FL, AN, ST",,$174.95
+,Donic Crest AR+,SDCRA,Donic,ALL+,84,75,85,"5w, 2c/z",5.9,"FL, AN, ST",,$174.95
+,Donic Waldner Senso Ultra Carbon,SDWUC,Donic,OFF,89,70,80,"5w, 2c",5.8,"FL, AN, ST",,$60.95
+,Tibhar Stratus Samsonov Carbon,STSST,Tibhar,OFF,93,57,85,"5w, 2c/k",5.5,"FL, AN, ST",,$95.95
+,Tibhar Stratus Power Defense,STSPD,Tibhar,DEF+,67,86,80,5w,5.3,"FL, AN, ST",,$54.95
+,Andro Treiber H,SATRH,Andro,OFF,88,65,90,"5w, 2c/f",5.5,"FL, ST",,$57.95
+,Yasaka Extra Offensive 7 Power,SYEO7,Yasaka,OFF+,96,62,92,"5w, 2c",6,"FL, AN, ST",$134.95,$69.95
+,Yasaka Goiabao 5,SYGOI,Yasaka,OFF+,94,66,86,5w,6.1,"FL, AN, ST",,$51.95
+,Yasaka Battle Balsa,SYBBL,Yasaka,OFF-,86,68,75,5w,6.2,"FL, AN, ST",$114.95,$49.95
+,Xiom Feel HX Pro,SXFHP,Xiom,OFF,92,65,89,"3w, 2c",7.1,"FL, ST",,$119.95
+,Xiom Feel HX,SXFHX,Xiom,OFF,91,65,84,"3w, 2c",6.6,"FL, ST",,$86.95
+,Xiom Feel AX,SXFAX,Xiom,OFF,93,63,88,"5w, 2c/a",5.7,"FL, ST",,$62.95
+,Xiom Feel SX,SXFSX,Xiom,OFF,92,64,95,"7w, 2c",6.3,"FL, ST",,$81.95
+,Nittaku S-CZ,SNSCZ,Nittaku,OFF-,85,70,85,"5w, 2c/z",6.2,"FL, ST",,$132.95
+,Nittaku S-7,SNSC7,Nittaku,OFF,88,68,85,7w,6.2,"FL, ST",,$114.95
+,Nittaku S-5,SNSC5,Nittaku,OFF-,86,69,85,5w,6.1,"FL, ST",,$88.95
+,Juic Cabriolet I-NP,SJCIP,Juic,OFF,90,64,90,"5w, 2c",5.6,"FL, ST",$169.95,$104.95
+,Juic Cabriolet F,SJCFF,Juic,OFF+,96,62,90,"5w, 2c",5.7,"FL, ST",$179.95,$114.95
+,Juic Wallack,SJWLK,Juic,ALL+,84,73,87,7w,5.1,"FL, ST",,$67.95
+,Tibhar E. Lebesson,STLEB,Tibhar,OFF-,89,68,85,5w,5.5,"FL, AN, ST",,$44.95
+,Nittaku Violin,SNVIO,Nittaku,OFF,88,65,88,5w,5.3,"FL, ST",,$164.95
+,Nittaku Tenor,SNTNR,Nittaku,OFF,90,63,92,5w,6,"FL, ST",,$199.95
+,Nittaku Violoncello,SNVIC,Nittaku,DEF+,67,90,92,5w,5.3,"FL, ST",,$164.95
+,Tibhar Balsa Fibretec 75,STBFC,Tibhar,OFF,92,64,73,"3w, 2g",9.2,"FL, AN, ST",,$54.95
+,Tibhar Balsa Fibre OFF 60,STBFO,Tibhar,OFF-,90,65,78,"5w, 2g",8,"FL, AN, ST",,$54.95
+,Tibhar Balsa Allround 50,STBFA,Tibhar,ALL,74,78,73,5w,8.2,"FL, AN, ST",,$54.95
+,Nittaku Ludeack Fleet,SNLUF,Nittaku,OFF,89,74,90,"7w, 2g",6.2,"FL, ST",,$199.95
+,Nittaku Ludeack Power,SNLUP,Nittaku,OFF,87,75,90,7w,6.6,"FL, ST",,$114.95
+,Nittaku Tornado King,SNTNK,Nittaku,OFF,90,68,85,5w,5.5,"FL, ST",,$119.95
+,Nittaku Tornado King Power,SNTKP,Nittaku,OFF,92,64,90,"5w, 2c/k",5.8,"FL, ST",,$164.95
+,Nittaku Tornado King Speed,SNTKS,Nittaku,OFF+,96,61,90,"5w, 2c/k",5.7,"FL, ST",,$164.95
+,Nittaku Resist II,SNRS2,Nittaku,DEF,58,95,80,5w,5.7,"FL, ST",,$64.95
+,Nittaku Barwell Fleet,SNBAF,Nittaku,OFF,91,60,88,"7w, 2g",6.1,"FL, ST",,$229.95
+,Nittaku Barwell,SNBAR,Nittaku,OFF,93,57,88,7w,6.6,"FL, ST",,$164.95
+,Tibhar Ronin CB,STROC,Tibhar,OFF+,97,61,87,"3w, 2c",6.5,"FL, AN, ST",,$89.95
+,Tibhar Ronin 6,STRO6,Tibhar,OFF,95,73,85,6w,7,"FL, AN, ST",,$59.95
+,Tibhar Rapid Carbon Light,STRCL,Tibhar,OFF+,96,60,75,"5w, 2c",7.4,"FL, AN, ST",$148.95,$83.95
+,Tibhar Curious,STCUR,Tibhar,OFF,94,62,88,7w,6.3,"FL, AN, ST",,$57.95
+,Tibhar Furious,STFUR,Tibhar,OFF-,86,69,88,7w,6.5,"FL, AN, ST",,$38.95
+,Nittaku Basaltec Inner,SNMBI,Nittaku,OFF,90,72,88,"5w, 2b",6.4,"FL, ST",,$259.95
+,Nittaku Basaltec Outer,SNMBO,Nittaku,OFF,92,70,88,"5w, 2b",6.4,"FL, ST",,$259.95
+,Nittaku Holz Sieben,SNMHS,Nittaku,OFF,87,76,88,7w,6.6,"FL, ST",,$249.95
+,DHS Hurricane King 3,SCHK3,DHS,OFF,91,65,90,"5w, 2c/g",5.8,"FL, ST",,$199.95
+,DHS Hurricane Hao 3,SCHH3,DHS,OFF,93,63,88,"4w, 1c/g",5.8,"FL, ST",,$199.95
+,Andro Flaxonite Driver,SAFDO,Andro,OFF,92,65,88,"5w, 2f",5.7,"FL, AN, ST",,$60.95
+,Xiom Omega Pro,SXOMP,Xiom,OFF,93,64,98,7w,6.1,"FL, ST",,$99.95
+,Xiom Omega Tour,SXOMT,Xiom,OFF-,87,66,88,7w,5.9,"FL, ST",,$109.95
+,Xiom Omega Euro,SXOMU,Xiom,OFF,92,65,97,7w,6,"FL, ST",,$89.95
+,Dr. Neubauer Matador Texa Balsa,SUMTB,Dr. Neubauer,OFF,93,65,86,"7w, 2f",6,"FL, ST",,$74.95
+,Yasaka Extra Special,SYEXT,Yasaka,OFF,92,64,90,7w,6.3,"FL, AN, ST",,$74.95
+,Yasaka Mark V Special Edition,SYMKV,Yasaka,OFF-,87,67,84,5w,5.8,"FL, AN, ST",$117.95,$52.95
+,Andro Wanokiwami AO OFF,SAWAO,Andro,OFF,90,68,86,5w,6.2,"FL, ST",,$162.95
+,Andro Wanokiwami Midori,SAWMD,Andro,DEF,68,90,86,5w,5.7,"FL, ST",,$162.95
+,Andro Wanokiwami Ren,SAWRN,Andro,OFF,91,67,84,7w,6.7,"FL, ST",,$179.95
+,DHS TG7-SP,SCTSP,DHS,OFF+,98,56,95,7w,6.2,FL,,$139.95
+,DHS TG7-CP2,SCTC2,DHS,OFF-,86,68,94,7w,5.8,FL,,$119.95
+,DHS TG7-P2,SCTP2,DHS,OFF,87,67,93,7w,6.1,FL,,$79.95
+,Donic Waldner Legend Carbon,SDWLC,Donic,OFF,93,66,85,"5w, 2c",6.3,"FL, ST",,$74.95
+,Donic Persson Seven,SDPE7,Donic,OFF-,80,73,85,7w,5.9,"FL, AN, ST",,$49.95
+,Donic Baum Esprit,SDBES,Donic,OFF,89,61,89,"5w, 2c",6.1,"FL, ST",,$65.95
+,Yasaka Sweden Defensive,SYSDF,Yasaka,DEF,63,90,80,5w,5.2,"FL, AN, ST",,$47.95
+,Stiga Offensive CR,SSOFFCN,Stiga,OFF-,85,71,81,5w,5.4,"FL, AN, ST",,$59.95
+,Dr. Neubauer World Champion Carbon,SUWCC,Dr. Neubauer,OFF-,92,65,80,"5w, 2c",8,"FL, AN, ST",,$74.95
+,Dr. Neubauer Jackpot,SUJKP,Dr. Neubauer,ALL,82,76,82,5w,7,"FL, AN, ST",,$74.95
+,Dr. Neubauer Matador,SUMAT,Dr. Neubauer,OFF-,90,68,88,7w,6,"FL, AN, ST",,$64.95
+,Tibhar Texo C7,STTEC,Tibhar,OFF,91,65,85,"5w, 2c",5.7,"FL, AN, ST",,$60.95
+,Tibhar Texo OFF,STTEO,Tibhar,OFF-,87,66,85,6w,5.8,"FL, AN, ST",,$39.95
+,Nittaku Rising 2,SNRI2,Nittaku,ALL,76,78,75,5w,5.6,FL,$104.95,$39.95
+,Nittaku Kasumi Special,SNKSP,Nittaku,OFF,90,70,85,"5w, 2c",5.5,"FL, ST",,$199.95
+,Nittaku Latika Carbon,SNLAC,Nittaku,OFF-,88,77,85,"5w, 2c",5.5,"FL, ST",,$179.95
+,Nittaku Rutis Power,SNRPO,Nittaku,OFF+,95,60,87,"3w, 2c",5.8,"FL, ST",,$119.95
+,Nittaku Adelie,SNADE,Nittaku,OFF,89,61,85,7w,6.2,"FL, ST",,$144.95
+,Andro Ligna Tour OFF+,SALTO,Andro,OFF+,95,62,85,5w,6.2,"FL, ST",,$96.95
+,Andro Ligna OFF+,SALOP,Andro,OFF+,96,62,85,5w,6.5,"FL, ST",,$108.95
+,Andro Ligna OFF,SALOF,Andro,OFF,91,64,85,"5w, 2f",6,"FL, ST",,$104.95
+,Nittaku Flame Carbon,SNFLC,Nittaku,OFF+,96,60,85,"5w, 2c/k",5.9,FL,,$99.95
+,Xiom Stradivarius,SXSTV,Xiom,OFF,91,64,85,"5w, 2c/a",5.8,"FL, ST",,$99.95
+,Xiom Zetro Quad,SXZEQ,Xiom,OFF,93,63,92,"5w, 2c, 2z",7,"FL, ST",,$114.95
+,Xiom V1,SXV1C,Xiom,OFF-,88,65,85,"5w, 2c",5.4,"FL, ST",,$84.95
+,Xiom V1 Quad,SXV1Q,Xiom,OFF+,95,62,88,"5w, 2c, 2z",5.6,"FL, ST",,$109.95
+,Nittaku Tenaly Original,SNTEN,Nittaku,OFF,89,64,90,5w,6.5,Ergo,,$89.95
+,Nittaku Tenaly Acoustic,SNTEA,Nittaku,OFF,86,67,90,5w,5.7,Ergo,,$169.95
+,Nittaku Tenaly Feruku,SNTEF,Nittaku,OFF,90,67,82,"3w, 2k",6.7,Ergo,,$174.95
+,Nittaku Tenaly Carbon,SNTEC,Nittaku,OFF,91,66,85,"5w, 2c",5.6,Ergo,,$109.95
+,Donic Ovtcharov Senso V1,SDOV1,Donic,OFF+,95,64,90,7w,6.1,"FL, AN, ST",$123.95,$58.95
+,Juic Duo,SJDUO,Juic,Combination,83/75,67/75,85,"5w, 2t",5.8,"FL, ST",,$89.95
+,Xiom Ignito,SXIGN,Xiom,OFF,94,61,88,"3w, 2c",6.5,"FL, ST",,$69.95
+,Tibhar Balsa SGS,STBAS,Tibhar,ALL+,78,78,75,5w,7.3,"FL, AN, ST",,$48.95
+,Tibhar Samsonov Alpha SGS,STSSG,Tibhar,OFF-,87,68,85,5w,6.2,"FL, AN, ST",,$54.95
+,Stiga Offensive NCT,SSNOFN,Stiga,OFF,89,69,83,5w,6.1,"FL, AN, ST",,$69.95
+,Stiga Allround NCT,SSNALN,Stiga,ALL+,79,77,75,5w,5.8,"FL, ST",,$51.95
+,Tibhar Sigma Sensitec,STSIG,Tibhar,OFF,95,60,85,5w,7.1,"FL, AN, ST",,$49.95
+,Tibhar Xeon Sensitec,STXEO,Tibhar,OFF-,88,74,85,5w,6.1,"FL, AN, ST",,$39.95
+,Donic Bloodwood 7 Senso,SDBL7,Donic,OFF+,95,60,90,7w,6.5,"FL, AN, ST",,$54.95
+,Juic DryHeat,SJDRY,Juic,ALL+,80,78,85,5w,6.3,"FL, ST",,$69.95
+,Juic Brown Carbon,SJBRO,Juic,OFF-,84,72,83,"5w, 2c",7.5,"FL, ST",,$85.95
+,Juic Titanium II Allround,SJTIA,Juic,ALL+,79,70,81,"5w, 2t",5.3,"FL, AN, ST",,$99.95
+,Juic Titanium Turbo,SJTIT,Juic,OFF+,97,53,87,"5w, 2t",6.3,"FL, AN, ST",,$99.95
+,Donic Persson Dotec OFF,SDPDO,Donic,OFF-,91,67,75,7w,7.4,"Left, Right",,$78.95
+,Donic Waldner Dotec Carbon,SDWDC,Donic,OFF,93,66,85,"5w, 2c",7.5,"FL, AN, ST",,$92.95
+,Donic Waldner Dotec AR,SDWDA,Donic,ALL+,81,76,70,7w,7.4,"Left, Right",,$72.95
+,Donic Wang Xi Dotec Control Plus,SDXDP,Donic,ALL-,69,83,80,7w,5.9,"Left, Right, ST",,$71.95
+,Donic Appelgren Dotec Control,SDADC,Donic,ALL+,79,76,70,7w,7.4,"Left, Right",,$65.95
+,Nittaku Cellenty BALCA,SNCEB,Nittaku,OFF-,87,74,85,"5w, 2c",5.5,FL,,$49.95
+,Nittaku Cellenty W07,SNCE7,Nittaku,OFF-,85,75,82,7w,6.2,"FL, ST",,$46.95
+,Stiga CC 5,SSCC5,Stiga,OFF,85,62,96,"5w, 2c",5.4,"FL, ST",,$132.95
+,Butterfly Timo Boll ZLC,SBTBC,Butterfly,OFF,94,61,85,"5w, 2c/z",5.5,FL,,$266.99
+,Butterfly Timo Boll ZLF,SBTBZ,Butterfly,OFF,93,62,84,"3w, 2z",5.4,FL,,$226.99
+,Butterfly Timo Boll W7,SBTBW,Butterfly,OFF,92,58,94,7w,6.7,FL,,$99.99
+,Hunter Black Widow,SPBLA,Hunter,OFF+,96,59,90,"5w, 2g",6.5,"FL, AN, ST",$124.95,$64.95
+,Hunter Power-Touch,SPPOW,Hunter,OFF,89,66,82,"5w, 2g",5.5,"FL, AN, ST",$108.95,$48.95
+,Hunter Techno Power,SPTEC,Hunter,OFF+,96,59,88,"5w, 2c",6,FL,,$68.95
+,Andro Super Core Cell OFF,SASOF,Andro,OFF,86,67,80,5w,5.6,"FL, AN, ST",,$34.95
+,Andro Super Core Cell ALL,SASAL,Andro,ALL,78,75,80,5w,6.5,"AN, ST",,$34.95
+,Dr. Neubauer Firewall Plus,SUFIP,Dr. Neubauer,ALL,79,73,65,5w,10,"FL, AN, ST",,$68.95
+,Dr. Neubauer Barricade,SUBAR,Dr. Neubauer,DEF+,65,88,58,7w,6.6,"FL, AN, ST",,$63.95
+,Tibhar Samsonov Carbon,STSAC,Tibhar,OFF+,98,56,89,"7w, 2c",6.8,"FL, AN, ST",,$72.95
+,Tibhar Samsonov Premium Contact,STSAP,Tibhar,OFF-,82,69,85,5w,5.9,"FL, AN, ST",,$54.95
+,Tibhar Samsonov Alpha,STSAM,Tibhar,OFF-,86,69,85,5w,5.9,"FL, AN, ST",$117.95,$52.95
+,Xiom Extreme S,SXEXS,Xiom,OFF+,95,61,92,7w,7,"FL, ST",,$59.95
+,Xiom Offensive S,SXOFS,Xiom,OFF-,82,74,87,5w,6.1,"FL, ST",,$54.95
+,Xiom Feel S7,SXFS7,Xiom,OFF,92,63,90,7w,6.1,"FL, ST",,$67.95
+,Xiom Allround S,SXALS,Xiom,ALL,73,77,85,5w,5.4,"FL, ST",,$54.95
+,Nittaku Kasumi Basic,SNKAS,Nittaku,OFF-,86,78,85,5w,5.8,"FL, ST",$124.95,$59.95
+,Juic Opt-C,SJOPT,Juic,OFF,91,67,88,"5w, 2c",5.8,FL,,$79.95
+,Donic Persson Exclusive OFF,SDPEO,Donic,OFF-,80,73,85,5w,5.9,"FL, AN, ST",,$32.95
+,Donic Appelgren Exclusive AR,SDAEA,Donic,ALL-,65,85,80,5w,5.6,"FL, AN, ST",,$31.95
+,Butterfly Timo Boll Spirit,SBTBT,Butterfly,OFF,90,61,89,"5w, 2c/a",5.7,"FL, ST",,$143.99
+,Hunter X-Carbon,SPXCA,Hunter,OFF,90,64,71,"5w, 11xc",7.2,"FL, AN, ST",$137.95,$72.95
+,Hunter Equalizer,SPEQU,Hunter,ALL+,78,77,87,5w,5.4,"FL, AN, ST",$104.95,$44.95
+,Juic Lafita,SJLAF,Juic,OFF,92,63,85,7w,7,"FL, AN, ST",,$42.95
+,Nittaku Jenty,SNJEN,Nittaku,OFF,90,60,80,5w,6.9,FL,,$44.95
+,Donic Burn OFF-,SDBUM,Donic,OFF-,89,68,85,5w,6.6,"FL, AN, ST",,$49.95
+,Donic Epox Topspeed,SDETO,Donic,OFF+,98,58,90,5w,7.1,"FL, AN, ST",,$56.95
+,Donic Epox Offensive,SDEOF,Donic,OFF,90,69,85,5w,6.8,"FL, AN, ST",$121.95,$56.95
+,Tibhar Defense Plus,STDEP,Tibhar,DEF+,59,92,75,5w,6.7,"FL, AN, ST",,$44.95
+,Donic Defplay Senso,SDDEF,Donic,DEF+,63,94,85,5w,5.5,"FL, AN, ST",$114.95,$49.95
+,Stiga Active,SSACTN,Stiga,OFF-,87,69,89,7w,6.7,"FL, AN, ST",,$35.95
+,Donic Waldner Senso V1,SDWS1,Donic,OFF-,81,73,85,5w,5.9,"FL, AN, ST",,$49.95
+,Nittaku Endless,SNEND,Nittaku,DEF,58,93,80,5w,5.3,FL,,$39.95
+,Stiga Clipper WRB,SSCLIW,Stiga,OFF,90,66,87,7w,6.6,"FL, AN, ST",,$72.95
+,Stiga Allround Classic WRB,SSALCW,Stiga,ALL,75,81,73,5w,5.4,"FL, ST",,$44.95
+,Hunter Flame,SPFLA,Hunter,ALL+,79,76,59,5w,6.7,"FL, AN, ST",$108.95,$48.95
+,Tibhar Smash,STSMA,Tibhar,ALL-,69,80,85,4w,7,"FL, AN, ST",,$18.95
+,Yasaka Dynamix 17,SYDYN,Yasaka,OFF+,96,55,90,17w,7.1,"FL, AN, ST",,$79.95
+,Butterfly Primorac Carbon,SBPRC,Butterfly,OFF+,95,56,88,"3w, 2c",7.1,FL,,$114.99
+,Tibhar Samsonov Premium Junior,STSAJ,Tibhar,ALL+,77,79,73,5w,6.3,FL,,$39.95
+,Stiga Titanium 5.4,SSTI5N,Stiga,OFF+,91,60,84,"5w, 4t",6.1,"FL, ST",,$66.95
+,Stiga Titanium 5.4 WRB,SSTI5W,Stiga,OFF+,93,59,82,"5w, 4t",5.4,"FL, ST",,$66.95
+,Tibhar H-1-9,STH19,Tibhar,OFF+,97,56,87,1w,8.5,"FL, AN, ST",,$99.95
+,Tibhar H-3-9,STH39,Tibhar,OFF+,96,57,89,3w,7.3,"FL, AN, ST",,$99.95
+,Donic Cayman,SDCAY,Donic,ALL+,80,76,70,5w,9.2,"FL, AN, ST",,$52.95
+,Nittaku Tiluna,SNTIL,Nittaku,DEF,58,95,90,"5w, 2k",5.4,"FL, ST",,$89.95
+,Donic Appelgren Allplay Senso V1,SDAA1,Donic,ALL+,77,79,80,5w,5.4,"FL, AN, ST",,$44.95
+,Donic Appelgren Allplay,SDAAL,Donic,ALL,73,82,81,5w,5.4,"FL, AN, ST",,$37.95
+,Donic Epox Power Allround,SDEAL,Donic,ALL+,85,72,85,5w,5.2,"FL, AN, ST",$121.95,$56.95
+,Donic Epox Control,SDECO,Donic,ALL,82,74,80,5w,5.1,"FL, AN, ST",,$56.95
+,Donic Persson Power Allround,SDPPO,Donic,ALL+,78,78,85,5w,5.8,"FL, AN, ST",,$39.95
+,Donic Waldner Allplay,SDWAL,Donic,ALL,72,84,85,5w,5.4,"FL, AN, ST",,$37.95
+,Donic Waldner Black Devil CB,SDWBD,Donic,OFF+,96,59,80,"5w, 2c",6.6,"FL, AN, ST",,$86.95
+,Dr. Neubauer Magical Touch,SUMGT,Dr. Neubauer,OFF-,92,68,82,7w,6,"FL, AN, ST",,$79.95
+,Butterfly Amultart ZL Carbon,SBAMU,Butterfly,OFF+,97,58,86,"3w, 2c",7,FL,,$251.99
+,Yasaka Max Carbon 3D,SYMXC,Yasaka,OFF+,97,53,90,"7w, 2c",6.3,"FL, AN, ST",,$64.95
+,Yasaka Allround Plus,SYALP,Yasaka,ALL+,81,67,88,5w,5.9,"FL, AN, ST",,$47.95
+,Stiga Energy WRB,SSENEW,Stiga,OFF-,85,71,77,5w,5.8,"FL, AN, ST",,$54.95
+,Tibhar Samsonov Start,STSAS,Tibhar,ALL-,67,84,85,4w,6.6,FL,,$29.95
+,Dr. Neubauer Kung Fu,SUKUN,Dr. Neubauer,ALL,76,74,85,7w,4.4,"FL, AN, ST",,$77.95
+,Stiga Optimum Plus,SSOPPN,Stiga,OFF,90,68,80,5w,6.4,"FL, AN, ST",,$64.95
+,Butterfly Primorac,SBPRM,Butterfly,OFF-,84,66,86,5w,5.7,FL,,$78.99
+,Butterfly Petr Korbel,SBPET,Butterfly,OFF,89,68,91,5w,5.9,FL,,$73.99
+,Hunter Venom,SPVEN,Hunter,OFF,89,67,85,5w,6.6,FL,,$54.95
+,Hunter Fang,SPFAN,Hunter,OFF-,85,66,83,5w,6.1,"FL, AN, ST",,$54.95
+,Nittaku Meran,SNMER,Nittaku,OFF,89,70,88,"5w, 2c",6,"FL, ST",,$84.95
+,Nittaku Latika,SNLAT,Nittaku,OFF-,86,78,88,5w,5.8,"FL, ST",,$66.95
+,Dr. Neubauer Bulldog,SUBUL,Dr. Neubauer,ALL+,87,69,68,7w,7.4,"FL, AN, ST",,$63.95
+,Donic Burn ALL+,SDBUA,Donic,ALL+,81,73,80,5w,6,"FL, AN, ST",,$49.95
+,Donic Burn OFF,SDBUO,Donic,OFF,94,65,90,5w,7.1,"FL, AN, ST",,$49.95
+,Donic Alligator Combi,SDALG,Donic,Combination,76/66,75/90,80,5w,6.7,"FL, ST",,$52.95
+,Butterfly Balsa Carbo X5,SBBAL,Butterfly,OFF,90,62,83,"3w, 2c",5.1,"FL, AN, ST",,$82.79
+,Tibhar IV-L Balsa,STIVB,Tibhar,ALL+,80,78,69,6w,7,"FL, AN, ST",,$54.95
+,Donic Appelgren Allplay Senso V2,SDAA2,Donic,ALL+,77,79,80,5w,5.4,"FL, AN, ST",,$44.95
+,Donic Waldner Dicon,SDWDI,Donic,OFF-,87,66,85,5w,5.7,"FL, AN, ST",,$43.95
+,Donic Waldner Diablo Senso,SDWDB,Donic,OFF-,88,64,85,"3w, 2g",5.8,"FL, AN, ST",,$57.95
+,Juic Ghost,SJGHO,Juic,DEF+,59,92,72,5w,5.1,ST,,$84.95
+,Tibhar Match,STMAT,Tibhar,ALL,74,75,89,5w,7.1,"FL, AN, ST",,$24.95
+,Yasaka Balsa,SYBAL,Yasaka,OFF-,85,61,69,5w,6.2,"FL, AN, ST",,$47.95
+,Butterfly Andrzej Grubba,SBGRU,Butterfly,ALL+,74,79,83,5w,5.3,"FL, AN, ST",,$56.99
+,Stiga Intensity Carbon NCT,SSINCN,Stiga,OFF,91,65,85,"5w, 2c",6.2,"FL, CO",$202.95,$137.95
+,Stiga Intensity NCT,SSINTN,Stiga,OFF-,88,68,82,5w,5.9,"FL, AN, ST",,$134.95
+,Dr. Neubauer World Champion,SUWOR,Dr. Neubauer,OFF-,86,71,80,5w,8.2,"FL, AN, ST",,$69.95
+,Tibhar ComBAT,STCOM,Tibhar,OFF,92,62,85,7w,6.8,"FL, AN, ST",$114.95,$49.95
+,Tibhar IV-S SGS,STISS,Tibhar,ALL+,88,69,88,5w,7.1,"FL, AN, ST",,$49.95
+,Tibhar IV-L SGS,STILS,Tibhar,ALL,80,72,88,4w,6.7,"FL, AN, ST",,$49.95
+,Juic Fracta,SJFRA,Juic,ALL+,79,76,80,5w,6,"FL, AN, ST",,$39.95
+,Nittaku Foum,SNFOU,Nittaku,OFF,92,58,80,5w,6.6,FL,,$49.95
+,Nittaku Latika Light,SNLAL,Nittaku,OFF-,85,79,78,5w,5.8,FL,,$64.95
+,Nittaku Leaves,SNLEA,Nittaku,ALL,73,77,85,5w,5.6,FL,,$44.95
+,Juic Fiber Shot,SJFIB,Juic,OFF+,92,68,84,"5w, 2g",7.1,ST,,$49.95
+,Xiom Aria,SXARI,Xiom,OFF-,86,68,84,5w,5.8,"FL, ST",,$39.95
+,Juic Hinoki 3,SJHI3,Juic,OFF,94,67,83,3w,7.8,"FL, ST",,$62.95
+,Donic Waldner Exclusive AR+,SDWEP,Donic,ALL+,76,74,85,5w,6,"FL, AN, ST",,$32.95
+,Yasaka Silver Carbon,SYSLC,Yasaka,OFF,94,65,90,"5w, 2c",5.6,"FL, AN, ST",,$79.95
+,Butterfly Zhang Jike ALC,SBZAL,Butterfly,OFF,92,60,86,"5w, 2c/a",5.7,FL,,$201.99
+,Butterfly Zhang Jike Super ZLC,SBZSZ,Butterfly,OFF,96,58,90,"5w, 2c/z",5.6,"FL, ST",,$395.99
+,Butterfly Zhang Jike T5000,SBZT5,Butterfly,OFF,94,59,88,"5w, 2c",5.5,FL,,$201.99
+,Butterfly Zhang Jike ZLC,SBZZL,Butterfly,OFF,95,59,86,"5w, 2c/z",5.5,FL,,$264.59
+,Tibhar Red Cypress,STRCP,Tibhar,OFF,82,74,83,7w,5.7,"FL, AN, ST",,$79.95
+,Tibhar White Sword,STWSD,Tibhar,OFF-,90,71,88,"3w, 2c",5.8,"FL, AN, ST",,$76.96
+,Dr. Neubauer Hercules,SUHRC,Dr. Neubauer,ALL,82,77,85,5w,6,"FL, AN, ST",,$151.95
+,Dr. Neubauer Phenomenon,SUPHN,Dr. Neubauer,ALL,80,79,78,7w,9,"FL, AN",,$74.95
+,Donic Ovtcharov Dotec ALL+,SDODP,Donic,ALL+,81,73,80,5w,6,"Left, Right",,$72.95
+,Donic Ovtcharov Dotec ALL,SDODA,Donic,ALL,78,75,80,5w,6,"Left, Right",,$72.95
+,Donic Ovtcharov Dotec OFF,SDODO,Donic,OFF-,88,67,80,5w,6,"Left, Right",,$72.95
+,DHS Dipper SP-10,SCDS1,DHS,OFF-,84,66,86,"3w, 2c",5.7,FL,,$49.95
+,DHS Dipper SP500,SCDS5,DHS,OFF-,89,64,95,"5w, 2c/a",5.9,FL,,$53.95
+,DHS Hurricane Hao 2,SCHH2,DHS,OFF-,87,67,89,5w,6,FL,,$112.95
+,DHS Hurricane King 2,SCHK2,DHS,OFF-,88,66,89,5w,6,FL,,$164.95
+,DHS Hurricane Ning,SCHNI,DHS,OFF,92,63,88,5w,5.7,FL,,$209.95
+,DHS Hurricane H-WL,SCHWL,DHS,OFF+,94,62,90,5w,6,FL,,$56.95
+,DHS Power G7,SCPG7,DHS,OFF,88,65,89,7w,6.3,"FL, ST",$104.95,$39.95
+,DHS Power G8,SCPG8,DHS,OFF-,83,72,86,5w,6,"FL, ST",,$39.95
+,DHS Wind Series W3010,SCW31,DHS,ALL,76,77,92,5w,6.1,FL,,$29.95
+,DHS Wind Series CW-C,SCWWC,DHS,OFF-,87,64,105,"5w, 2c",6.2,FL,,$39.95
+,Stiga Maplewood NCT V,SSMA5N,Stiga,OFF,89,67,84,5w,5.9,"ST, CO",,$78.95
+,Butterfly Hadraw VR,SBHVR,Butterfly,OFF-,92,66,87,5w,5.9,"FL, ST",,$143.99
+,Butterfly Timo Boll Control,SBTCO,Butterfly,ALL,76,82,85,5w,5.7,FL,,$58.99
+,Butterfly Timo Boll Offensive,SBTOF,Butterfly,OFF,86,70,90,5w,5.9,FL,,$62.09
+,Butterfly Timo Boll Allround,SBTAL,Butterfly,ALL,81,69,85,5w,5.5,FL,,$63.99
+,Butterfly Garaydia ZLC,SBGAZ,Butterfly,OFF,95,60,84,"3w, 2c/z",7.1,"FL, ST",,$251.99
+,Butterfly Garaydia ALC,SBGAA,Butterfly,OFF,92,64,83,"3w, 2c/a",6.9,"FL, ST",,$172.99
+,Butterfly Garaydia T5000,SBGA5,Butterfly,OFF+,98,54,89,"3w, 2c",7.2,FL,,$172.99
+,Butterfly Innerforce Layer ALC,SBILA,Butterfly,OFF,91,65,86,"5w, 2c/a",6,"FL, ST",,$172.99
+,Butterfly Innerforce Layer ZLC,SBILZ,Butterfly,OFF,90,66,87,"5w, 2c/z",5.7,"FL, ST",,$251.99
+,Butterfly Innershield Layer ZLF,SBISL,Butterfly,DEF,56,74,86,"5w, 2z",5.1,"FL, ST",,$201.99
+,Butterfly Mizutani Jun ZLC,SBMJZ,Butterfly,OFF,93,61,90,"5w, 2c/z",5.7,"FL, ST",,$266.99
+,Butterfly Mizutani Jun Super ZLC,SBMSZ,Butterfly,OFF,97,57,91,"5w, 2c/z",5.8,"FL, ST",,$359.09
+,Andro Fibercomp DEF II,SAFCD,Andro,DEF,64,87,85,"5w, 2g",6.6,"FL, AN, ST",,$60.95
+,Yasaka Galaxya,SYGLX,Yasaka,OFF,95,64,92,7w,6,"FL, AN, ST",,$52.95
+,Donic Blue Feeling,SDBLU,Donic,ALL+,80,75,85,5w,5.6,"FL, AN, ST",,$59.95
+,Nittaku Winglight,SNWLT,Nittaku,OFF-,82,75,76,5w,5.6,FL,,$49.95
+,Dr. Neubauer Matador Texa,SUMTX,Dr. Neubauer,OFF,95,62,89,"7w, 2f",6,"FL, AN, ST",,$74.95
+,Juic Maple Shot,SJMAP,Juic,OFF-,88,64,80,5w,6.4,ST,,$49.95
+,Stiga CC7,SSCC7,Stiga,OFF+,94,58,99,"5w, 2c",6.3,FL,,$148.95
+,Donic Bloodwood 5,SDBL5,Donic,OFF,88,68,85,5w,6.3,ST,,$52.95
+,Stiga Allround Evolution,SSALEN,Stiga,ALL+,80,77,78,5w,5.8,"FL, AN, ST",,$49.95
+,Ovtcharov Soft Carbon V1,SDOVS,Donic,OFF-,84,67,90,"5w, 2c",5.7,AN,,$71.95
+,Andro Treiber K,SATRK,Andro,OFF,95,62,90,"5w, 2c/f",5.5,"FL, ST",,$65.95
+,Donic Burn Carbotox,SDBUC,Donic,OFF,93,65,85,"5w, 2c",6.2,ST,,$57.95
+,Stiga Offensive Classic Carbon,SSOFC,Stiga,OFF,93,62,79,"5w, 2c",5.6,"FL, AN, ST",,$89.95
+,Xiom Solo,SXSOL,Xiom,OFF-,84,67,91,7w,6.4,"FL, ST",,$64.95
+,Xiom Hayabusa Z,SXHZ,Xiom,OFF-,88,65,85,"5w, 2z",5.7,"FL, ST",,$88.95
+,Stiga Offensive Classic WRB,SSOFFW,Stiga,OFF-,84,72,78,5w,5.4,"FL, AN, ST",,$54.95
+,Stiga Offensive CR WRB,SSOFFCW,Stiga,OFF-,86,70,78,5w,5.4,"FL, AN, ST",,$60.95
+,Stiga Defensive Wood NCT,SSNDEF,Stiga,DEF+,69,82,80,5w,5.3,AN,,$46.95
+,Xiom Vega Euro,SXVGU,Xiom,OFF-,89,65,90,"5w, 2c/z",6.1,"FL, ST",,$99.95
+,Stiga Sense 7.6,SSSE7,Stiga,OFF+,98,57,85,"7w, 6c",6.6,"FL, AN, ST",,$69.95
+,Stiga Clipper CR WRB,SSCLIC,Stiga,OFF,91,65,87,7w,6.6,"FL, ST",$141.95,$76.95
+,Juic Hinoki Carbon III,SJHC3,Juic,OFF,95,62,83,"3w, 2c",7,"FL, ST",,$69.95
+,Tibhar Samsonov Carbon SGS,STSCS,Tibhar,OFF+,98,56,89,"7w, 2c",6.8,"FL, AN, ST",,$89.95
+,Andro Treiber Q,SATRQ,Andro,OFF,96,61,88,"5w, 2c/f",5.9,"AN, ST",,$57.95
+,Yasaka Synergy,SYSYN,Yasaka,OFF-,89,63,82,"9w, 2s",5.5,"FL, AN, ST",,$49.95
+,Andro Core 7 OFF,SAC7F,Andro,OFF,91,67,85,7w,6,"FL, ST",,$29.95
+,Andro Ligna F.R. OFF,SALFR,Andro,OFF,90,65,85,"5w, 2f",6.2,"FL, ST",,$116.95
+,andro Ligna ALL+,SALAP,Andro,ALL+,84,72,75,5w,5.6,"FL, ST",,$94.95
+,Stiga Carbonado 90,SSC90,Stiga,OFF+,93,63,90,"5w, 2c",5.7,"FL, ST",$234.95,$169.95
+,Stiga Ebenholz NCT V,SSEB5N,Stiga,OFF,88,67,87,5w,5.9,"FL, ST",,$169.95
+,Stiga Hybrid NCT,SSNHYN,,,,,,,,,,$129.95
+,Stiga Rosewood NCT VII,SSRO7,Stiga,OFF,91,60,97,7w,6.9,"FL,AN,ST",,$174.95
